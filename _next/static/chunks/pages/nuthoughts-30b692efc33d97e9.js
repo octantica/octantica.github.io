@@ -116,7 +116,7 @@
                             className: "jsx-2827c0355da31fcc prose mx-6 pb-6 max-w-[440px]",
                             children: [(0, n.jsx)("p", {
                                 className: "jsx-2827c0355da31fcc",
-                                children: "I spend most of my days with fleeting thoughts. Writing. Listening. And collecting old Beach cruisers. The morning rides keep me on a hill of\xa0silence."
+                                children: "This website is inspired by the artistic design of Kendrick Lamar's official website, https://oklama.com (retrived 13 Jan 2024)."
                             }), (0, n.jsx)("p", {
                                 className: "jsx-2827c0355da31fcc",
                                 children: "I go months without a phone."

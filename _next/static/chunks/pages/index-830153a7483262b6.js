@@ -83,9 +83,9 @@
                                 x: .55,
                                 y: .15
                             }, {
-                                href: "/credit",
+                                href: "/acknowledgment",
                                 style: A.b.Gray,
-                                name: "credit",
+                                name: "acknowledgment",
                                 x: .18,
                                 y: .48
                             }, {
