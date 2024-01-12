@@ -74,13 +74,13 @@
                             persist: !0,
                             stateKey: "ok3",
                             folders: [{
-                                href: "/nuthoughts",
+                                href: "/runif1",
                                 style: A.b.Default,
-                                name: "nu thoughts",
+                                name: "runif(1)",
                                 x: .65,
                                 y: .75
                             }, {
-                                href: "/master",
+                                href: "/rewind",
                                 style: A.b.Black,
                                 name: "rewind",
                                 x: .55,
