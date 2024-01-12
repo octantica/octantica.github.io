@@ -27,17 +27,14 @@
                 A = n(9858),
                 u = n(3997);
             var h = [{
-                    href: "https://twitter.com/kendricklamar",
-                    text: "twitter"
+                    href: "https://unlicensed.astro.clinic",
+                    text: "blog"
                 }, {
-                    href: "https://www.instagram.com/kendricklamar/",
-                    text: "instagram"
+                    href: "https://pleroma.astro.clinic/users/melatonin",
+                    text: "pleroma"
                 }, {
-                    href: "https://www.facebook.com/kendricklamar",
-                    text: "facebook"
-                }, {
-                    href: "https://www.youtube.com/channel/UC3lBXcrKFnFAFkfVk5WuKcQ/videos",
-                    text: "youtube"
+                    href: "mailto:asretro@protonmail.com",
+                    text: "email"
                 }],
                 f = function() {
                     var e = (0, i.useState)(!1),
@@ -99,59 +96,8 @@
                                     n(!0)
                                 }
                             }]
-                        }), (0, r.jsxs)("div", {
-                            className: "fixed top-7 left-7 right-7 z-30 text-black/50 font-mono flex justify-between pointer-events-none [&>*]:pointer-events-auto",
-                            children: [(0, r.jsx)("a", {
-                                className: "hover:text-[#cd3f25] pointer-events-auto block p-1",
-                                href: "https://kendricklamar.lnk.to/MrMorale",
-                                children: "music"
-                            }), (0, r.jsxs)("div", {
-                                className: "relative",
-                                ref: k,
-                                children: [(0, r.jsxs)("button", {
-                                    className: "hover:text-[#cd3f25] block p-1",
-                                    onClick: function() {
-                                        p()
-                                    },
-                                    onMouseEnter: function() {
-                                        console.log("enter wrapper"), p()
-                                    },
-                                    onMouseLeave: function() {
-                                        console.log("leave wrapper"), v(200)
-                                    },
-                                    children: ["store ", f ? "\u2193" : "\u2192"]
-                                }), (0, r.jsxs)("div", {
-                                    className: (0, o.Z)("absolute top-full border-2 -left-1 -mx-[2px] border-black bg-white grid py-1", "shadow-[4px_4px_0_rgba(0,0,0,0.25)]", f ? "block" : "hidden"),
-                                    onMouseEnter: function() {
-                                        p()
-                                    },
-                                    onMouseLeave: function() {
-                                        v()
-                                    },
-                                    children: [(0, r.jsx)("a", {
-                                        className: "hover:text-[#cd3f25] whitespace-nowrap py-1 px-2 block",
-                                        href: "https://store.interscope.com/pages/kendrick-lamar",
-                                        onClick: function() {
-                                            v()
-                                        },
-                                        children: "music store"
-                                    }), (0, r.jsx)("a", {
-                                        className: "hover:text-[#cd3f25] whitespace-nowrap py-1 px-2 block",
-                                        href: "https://shopeu.pg-lang.com/",
-                                        onClick: function() {
-                                            v()
-                                        },
-                                        children: "eu/uk store"
-                                    })]
-                                })]
-                            }), (0, r.jsx)(c.default, {
-                                href: "/tour",
-                                children: (0, r.jsx)("a", {
-                                    className: "hover:text-[#cd3f25] block p-1",
-                                    children: "tour"
-                                })
-                            })]
-                        }), (0, r.jsx)("div", {
+                        }), 
+                        (0, r.jsx)("div", {
                             className: "fixed bottom-8 left-0 right-0 h-0 flex justify-center items-center z-30",
                             children: (0, r.jsx)("div", {
                                 className: "absolute bottom-0 text-black/50 font-mono",
