@@ -27,8 +27,8 @@
                 A = n(9858),
                 u = n(3997);
             var h = [{
-                    href: "https://unlicensed.astro.clinic",
-                    text: "blog"
+                    href: "https://github.com/octantica/octantica.github.io",
+                    text: "source code"
                 }, {
                     href: "https://pleroma.astro.clinic/users/melatonin",
                     text: "pleroma"
@@ -71,7 +71,7 @@
                             persist: !0,
                             stateKey: "ok3",
                             folders: [{
-                                href: "/runif1",
+                                href: "https://unlicensed.astro.clinic",
                                 style: A.b.Default,
                                 name: "runif(1)",
                                 x: .65,
@@ -83,8 +83,9 @@
                                 x: .55,
                                 y: .15
                             }, {
-                                href: "/step",
+                                href: "/credit",
                                 style: A.b.Gray,
+                                name: "credit",
                                 x: .18,
                                 y: .48
                             }, {
