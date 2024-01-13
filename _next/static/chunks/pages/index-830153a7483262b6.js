@@ -29,12 +29,6 @@
             var h = [{
                     href: "https://github.com/octantica/octantica.github.io",
                     text: "source code"
-                }, {
-                    href: "https://pleroma.astro.clinic/users/melatonin",
-                    text: "pleroma"
-                }, {
-                    href: "mailto:asretro@protonmail.com",
-                    text: "email"
                 }],
                 f = function() {
                     var e = (0, i.useState)(!1),
