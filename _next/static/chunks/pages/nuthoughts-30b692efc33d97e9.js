@@ -92,7 +92,7 @@
                 i = s(5675),
                 o = s(1664),
                 r = {
-                    src: "/_next/static/media/IMG_3419.b3db22c6.jpeg",
+                    src: "/_next/static/media/IMG_7106.gif",
                     height: 1600,
                     width: 2400,
                     blurDataURL: "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wAARCAAFAAgDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAcEAACAgMBAQAAAAAAAAAAAAABAgAEAwUREiH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AltbUxWqO2xuieceqawvFHQ6kgfYiIH//2Q=="
@@ -110,37 +110,19 @@
                                 })
                             }), (0, n.jsx)("span", {
                                 className: "jsx-2827c0355da31fcc ml-3 text-xs",
-                                children: "august 20 2021"
+                                children: "acknowledgment"
                             })]
                         }), (0, n.jsxs)("div", {
                             className: "jsx-2827c0355da31fcc prose mx-6 pb-6 max-w-[440px]",
                             children: [(0, n.jsx)("p", {
                                 className: "jsx-2827c0355da31fcc",
-                                children: "This website is inspired by the artistic design of Kendrick Lamar's official website, https://oklama.com (retrived 13 Jan 2024)."
+                                children: "The frontend of this website is a clone of Kendrick Lamar's official website, https://oklama.com (retrieved on January 13, 2024), with my own modifications added."
                             }), (0, n.jsx)("p", {
                                 className: "jsx-2827c0355da31fcc",
-                                children: "I go months without a phone."
+                                children: "In an era where web designers are obsessed with rounded corners and flashy interface effects, the simple, clean, and vintage design of this website caught my eye on my first visit. "
                             }), (0, n.jsx)("p", {
                                 className: "jsx-2827c0355da31fcc",
-                                children: "Love, loss, and grief have disturbed my comfort zone, but the glimmers of God speak through my music and\xa0family."
-                            }), (0, n.jsx)("p", {
-                                className: "jsx-2827c0355da31fcc",
-                                children: "While the world around me evolves, I reflect on what matters the most. The life in which my words will land\xa0next."
-                            }), (0, n.jsx)("p", {
-                                className: "jsx-2827c0355da31fcc",
-                                children: "As I produce my final TDE album, I feel joy to have been a part of such a cultural imprint after 17 years. The Struggles. The Success. And most importantly, the Brotherhood. May the Most High continue to use Top Dawg as a vessel for candid creators. As I continue to pursue my life\u2019s\xa0calling."
-                            }), (0, n.jsx)("p", {
-                                className: "jsx-2827c0355da31fcc",
-                                children: "There\u2019s beauty in completion. And always faith in the\xa0unknown."
-                            }), (0, n.jsx)("p", {
-                                className: "jsx-2827c0355da31fcc",
-                                children: "Thank you for keeping me in your thoughts. I\u2019ve prayed for you\xa0all."
-                            }), (0, n.jsx)("p", {
-                                className: "jsx-2827c0355da31fcc",
-                                children: "See you soon enough."
-                            }), (0, n.jsx)("p", {
-                                className: "jsx-2827c0355da31fcc",
-                                children: "-oklama"
+                                children: "Thank you to Kendrick Lamar and his team for being a source of inspiration."
                             }), (0, n.jsx)("div", {
                                 className: "jsx-2827c0355da31fcc flex justify-center my-5",
                                 children: (0, n.jsx)(i.default, {
