@@ -139,7 +139,7 @@
                 var t = e.children;
                 return (0, r.jsxs)(r.Fragment, {
                     children: [(0, r.jsx)(u.y, {
-                        title: "oklama"
+                        title: "untitled"
                     }), t]
                 })
             };
